@@ -1,4 +1,4 @@
-# Hello there I am Pedro Cruz👋
+# Hello there I am Pedro 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
