@@ -43,7 +43,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/trash-ttrs-bb8514323/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.instagram.com/2.__p_e_t_e_r__.2/" target="blank"><img align="center"
